@@ -1,0 +1,29 @@
+
+.imgg {
+    width: 1420px;
+    height: 550px;
+    }
+.flot {
+    font-family: "Aljazeera";
+    font-size: large;
+    color: rgb(19, 57, 107);
+    
+}
+.ram{
+    font-family: "UthmanTN_v2-0";
+    font-size: large;
+    color: darkgreen;
+}
+.tab {
+    font-family: "Aljazeera";
+    color: darkolivegreen;
+    font-size: large;
+    border-color: cornflowerblue;
+}
+    
+.brp {
+    font-family: "Aljazeera";
+    color: blue;
+    font-size: 100px;
+    
+}

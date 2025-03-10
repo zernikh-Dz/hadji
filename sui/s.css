@@ -1,0 +1,45 @@
+
+.ss {
+    font-family: "Aljazeera";
+    font-size: 75px;
+    
+    color: royalblue;
+    text-align: center;
+
+}
+.sz {
+    font-family: "Aljazeera";
+    font-size: 24px;
+    
+    color: rgb(235, 235, 235);
+    text-align: right;
+
+
+}
+.lis {
+    direction: rtl;
+    list-style-type: circle;
+
+}
+.quran {
+    font-family: "UthmanTN_v2-0";
+    font-weight: bold;
+
+
+    color: green;
+}
+.hadith {
+    font-family: "UthmanTN_v2-0";
+    font-weight: bold;
+
+
+    color: gold;
+}
+.end {
+    direction: rtl;
+    font-family: "Aljazeera";
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+
+}
